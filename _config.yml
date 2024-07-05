@@ -212,7 +212,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  Testadapt:
+  testADAPT:
     output: true
     permalink: /:collection/:path/
 
@@ -272,12 +272,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-    # Testadapt
+    # _testADAPT
     - scope:
       path: ""
-      type: Testadapt
+      type: testADAPT
     values:
-      layout: Testadapt
+      layout: testADAPT
       author_profile: true
       share: true
       
