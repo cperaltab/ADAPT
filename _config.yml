@@ -212,6 +212,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  Testadapt:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -269,6 +272,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+    # Testadapt
+    - scope:
+      path: ""
+      type: Testadapt
+    values:
+      layout: Testadapt
+      author_profile: true
+      share: true
+      
 
 
 # Sass/SCSS
