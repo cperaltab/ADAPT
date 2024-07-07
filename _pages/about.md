@@ -15,7 +15,7 @@ The ADAPT project is supported by funding under the Programme Cooperation Agreem
 
 Project Coordinator:
 
-Ana Carolina Peralta; anacarolaperaltab@gmail.com 
+Ana Carolina Peralta; anacarolaperaltab@gmail.com; peraltabrichtova@usf.edu
 
 Ocean Best Practices Capacity Development Team:
 
