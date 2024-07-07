@@ -21,7 +21,7 @@ repository               : "github.com/cperaltab/adaptTest" #"academicpages/acad
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LogoADAPT_cropGitHub.png"
+  avatar           : "ADAPTsmall.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
