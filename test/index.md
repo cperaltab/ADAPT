@@ -1,5 +1,3 @@
-# What is ADAPT?
-
 ADAPT is a project under the Capacity Development Working Groups within the [Ocean Best Practices System](https://www.oceanbestpractices.org/) designed to support the fundamental need to enable adopting best practices in marine observing strategies, managing data, and synthesizing outcomes. Its core goal is to provide training and support local monitoring programs. 
 
 The ADAPT project seeks to promote the adoption and adaptation of standardized practices and methodologies within the Caribbean region to suit their capabilities and regional context in terms of monitoring and managing their marine territories and resources, while maintaining interoperability of ocean observations and data. 
@@ -19,7 +17,7 @@ Ocean Best Practices Capacity Development Team:
 
 Expert Advisors Team:
 
-- Enrique Montes | Biological oceanographer | MBON Pole to Pole - NOAA
-- Tylar Murray | MBON Data Management - USF
-- Luis Lizcano-Sandoval | Remote sensing - USF
+- Enrique Montes - Biological oceanographer - MBON Pole to Pole - NOAA
+- Tylar Murray - MBON Data Management - USF
+- Luis Lizcano-Sandoval - Remote sensing - USF
 - ...
