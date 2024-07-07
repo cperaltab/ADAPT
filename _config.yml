@@ -24,13 +24,14 @@ author:
   avatar           : "ADAPTsmall.png"
   name             : # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Adoption and Adaptation of Standardized Practices and Methodologies"
+  bio              : "# Adoption and Adaptation of Standardized Practices and Methodologies"
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : # "none@example.org" 
 
   # Academic websites
+  OBPS             : "https://www.oceanbestpractices.org/ocean-best-practices-systems/our-work/adapt/"
   arxiv            : "https://www.oceanbestpractices.org/ocean-best-practices-systems/our-work/adapt/" # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
