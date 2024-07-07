@@ -23,5 +23,9 @@ main:
 
   - title: "testADAPT"
     url: /test/
+    
+  - title: "Day 1"
+    url: /day1/
+    
 
     
