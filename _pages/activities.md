@@ -7,5 +7,7 @@ redirect_from:
   - /activities.html
 ---
 
+Welcome and Opening of the workshop
+Ana Carolina Peralta - Project Lead
 
-# Welcome and Introduction
+
