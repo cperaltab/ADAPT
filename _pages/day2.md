@@ -9,7 +9,7 @@ author_profile: true
 ## 8:00-8:45
 
 Brief introduction
-Fundamental concepts already covered in the online material shared on [Day 1](https://cperaltab.github.io/ADAPT/day1/).
+Fundamental concepts already covered in the online material shared on Day 1.
 
 
 **Activities**
