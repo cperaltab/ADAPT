@@ -1,5 +1,5 @@
 ---
-title: "Activities Day2"
+title: "Module 1 - Day2"
 permalink: /day2/
 author_profile: true
 ---
