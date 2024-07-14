@@ -7,13 +7,13 @@ redirect_from:
   - /activities.html
 ---
 
-## 8:00-8:45
+## • 8:00-8:45
 
 Welcome and Opening of the workshop
 
 *Ana Carolina Peralta - Project Lead*
 
-## 8:45-17:00 (Lunch Break 12:00-13:30)
+## • 8:45-17:00 (Lunch Break 12:00-13:30)
 
 # Module 1: Coastal Habitat and Biodiversity Assessment: Standards and Data Publication
 
