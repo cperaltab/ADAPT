@@ -1,5 +1,5 @@
 ---
-title: "day2"
+#title: "day2"
 permalink: /day2/
 author_profile: true
 ---
