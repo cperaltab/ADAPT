@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "day2"
 permalink: /day2/
 author_profile: true
