@@ -19,6 +19,8 @@ Welcome and Opening of the workshop
 
 **Outline of the learning objectives:** 
 
+_Note: Add hyperlinks to each of the theoretical contents sources (pdf? Drive docs?)_
+
 1. Regional ocean biodiversity protection agreement: The Cartagena Convention 
 2. Best Practices methods for field data collection
 3. EOVs, EBVs: definition and measurements. 
