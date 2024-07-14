@@ -1,4 +1,6 @@
 # What is ADAPT?
+
+
 ADAPT is a project under the Capacity Development Working Groups within the [Ocean Best Practices System](https://www.oceanbestpractices.org/) designed to support the fundamental need to enable adopting best practices in marine observing strategies, managing data, and synthesizing outcomes. Its core goal is to provide training and support local monitoring programs. 
 
 The ADAPT project seeks to promote the adoption and adaptation of standardized practices and methodologies within the Caribbean region to suit their capabilities and regional context in terms of monitoring and managing their marine territories and resources, while maintaining interoperability of ocean observations and data. 
@@ -19,6 +21,8 @@ University of South Florida (USF) - OBPS Capacity Develoment Working Group
 - Pauline Simpson : p.simpson@unesco.org 
 - Jay Pearlman : jay.pearlman@fourbridges.org
 - George Petihakis : gpetihakis@hcmr.gr
+
+#Add link to OceanExpert
 
 ## Expert Advisors Team:
 
