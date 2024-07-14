@@ -1,10 +1,11 @@
 ---
-permalink: /
+permalink: /day1/
+# permalink: /
 title: "Module 1 - Day 1"
 author_profile: true
-redirect_from: 
-  - /day1/
-  - /day1.html
+# redirect_from: 
+  # - /day1/
+  # - /day1.html
 ---
 
 ## Coastal Habitat and Biodiversity Assessment: Standards and Data Publication
