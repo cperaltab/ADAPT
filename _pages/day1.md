@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Welcome and Introduction"
+title: "Module 1 - Day 1"
 author_profile: true
 redirect_from: 
   - /day1/
   - /day1.html
 ---
 
+## Coastal Habitat and Biodiversity Assessment: Standards and Data Publication
 
 ## • 8:00-8:45
 
@@ -16,9 +17,6 @@ Welcome and Opening of the workshop
 
 ## • 8:45-17:00 (Lunch Break 12:00-13:30)
 
-# Module 1
-
-## Coastal Habitat and Biodiversity Assessment: Standards and Data Publication
 
 **Outline of the learning objectives:** 
 
