@@ -39,6 +39,16 @@ _Note: Add hyperlinks to each of the theoretical contents sources (pdf? Drive do
 
 _Note: step-by-step manual (field work plan), including templates for data sets_
 
+[List of tools and materials](https://repository.oceanbestpractices.org/handle/11329/2199.2):
+
+- Photo-quadrant structure
+- 100m Tape measure
+- Waterproof camera
+- Field form
+- Tide times
+- Sampling site: very little intertidal frame. _Note: Work on the adaptations needed; co-develop an adapted version of the method._
+
+
 
 
 
