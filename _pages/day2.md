@@ -6,7 +6,7 @@ author_profile: true
 
 ## Coastal Habitat and Biodiversity Assessment: Standards and Data Publication
 
-## 8:00-8:45
+## • 8:00-8:45
 
 Brief introduction
 Fundamental concepts already covered in the online material shared on Day 1.
@@ -18,7 +18,7 @@ Fundamental concepts already covered in the online material shared on Day 1.
 - Field work: 5 groups of 3  participants each will be working on the field data collection.
 - Field data collection protocols: [SeagrassNet](https://search.oceanbestpractices.org/search?q=SeagrassNet&fields=all&activeField=all)  protocol (Adopt methods from MarineGEO, specially for associated fauna data; even if it is not in the OBPS).
 
-## 8:00-17:00 (Lunch Break 12:00-13:30)
+## • 8:00-17:00 (Lunch Break 12:00-13:30)
 
 In the field: 
 _Note: Develop a step-by-step manual (field work plan), including templates for data sets._
