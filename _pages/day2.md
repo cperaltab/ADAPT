@@ -3,8 +3,8 @@ permalink: /
 title: "Coastal Habitat and Biodiversity Assessment"
 author_profile: true
 redirect_from: 
-  - /day1/
-  - /day1.html
+  - /day2/
+  - /day2.html
 ---
 
 ## 8:00-8:45
