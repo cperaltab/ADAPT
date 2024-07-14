@@ -1,4 +1,4 @@
-Tittle: "What is ADAPT?"
+# What is ADAPT?
 
 
 ADAPT is a project under the Capacity Development Working Groups within the [Ocean Best Practices System](https://www.oceanbestpractices.org/) designed to support the fundamental need to enable adopting best practices in marine observing strategies, managing data, and synthesizing outcomes. Its core goal is to provide training and support local monitoring programs. 
