@@ -15,7 +15,9 @@ Welcome and Opening of the workshop
 
 ## • 8:45-17:00 (Lunch Break 12:00-13:30)
 
-# Module 1: Coastal Habitat and Biodiversity Assessment: Standards and Data Publication
+# Module 1
+
+## Coastal Habitat and Biodiversity Assessment: Standards and Data Publication
 
 **Outline of the learning objectives:** 
 
