@@ -7,7 +7,7 @@ The ADAPT project seeks to promote the adoption and adaptation of standardized p
 
 The ADAPT project is supported by funding under the Programme Cooperation Agreement between NORAD and UNESCO and its partners institutions: Intergovernmental Oceanographic Commission (IOC), Instituto de Investigaciones Marinas y Costeras, Colombia ([INVEMAR](https://www.invemar.org.co/es/web/guest/inicio)), and the St. George’s University ([SGU](https://sgu.digication.com/bec-sgu/overview)), Department of Biology, Ecology and Conservation, Grenada, West Indies.
 
-## Project Coordinator:
+**Project Coordinator:**
 
 Ana Carolina Peralta - anacarolaperaltab@gmail.com; peraltabrichtova@usf.edu
 
@@ -15,7 +15,7 @@ University of South Florida (USF) - OBPS Capacity Develoment Working Group
 
 #Add link to OceanExpert
 
-## Ocean Best Practices Capacity Development Team:
+**Ocean Best Practices Capacity Development Team:**
 
 - Ana Carolina Mazzuco : ac.mazzuco@unesco.org
 - Pauline Simpson : p.simpson@unesco.org 
@@ -24,7 +24,7 @@ University of South Florida (USF) - OBPS Capacity Develoment Working Group
 
 #Add link to OceanExpert
 
-## Expert Advisors Team:
+**Expert Advisors Team:**
 
 - Enrique Montes - Biological oceanographer - MBON Pole to Pole - NOAA
 - Tylar Murray - MBON Data Management - USF
