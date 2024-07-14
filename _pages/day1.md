@@ -1,10 +1,16 @@
+#---
+#permalink: /
+#title: "Welcome and Introduction"
+#author_profile: true
+#redirect_from: 
+  #- /day1/
+  #- /day1.html
+#---
+
 ---
-permalink: /
-title: "Welcome and Introduction"
+##title: "day2"
+permalink: /day2/
 author_profile: true
-redirect_from: 
-  - /day1/
-  - /day1.html
 ---
 
 ## • 8:00-8:45
