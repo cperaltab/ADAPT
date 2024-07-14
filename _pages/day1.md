@@ -24,7 +24,9 @@ Welcome and Opening of the workshop
 3. EOVs, EBVs: definition and measurements. 
 4. Sharing data: FAIR principles, OBIS data standards and formats.
 5. Field data collection protocols:
+   
     [SeagrassNet protocol](https://search.oceanbestpractices.org/search?q=SeagrassNet&fields=all&activeField=all)
+   
     [MBON Rocky shore](https://search.oceanbestpractices.org/search?q=MBON%20Rocky%20shore&fields=all&activeField=all)
 
 
