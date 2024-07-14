@@ -1,11 +1,10 @@
 ---
-permalink: /
-title: "Coastal Habitat and Biodiversity Assessment"
+layout: archive
+title: "day2"
+permalink: /day2/
 author_profile: true
-redirect_from: 
-  - /day2/
-  - /day2.html
 ---
+
 
 ## 8:00-8:45
 
