@@ -3,8 +3,8 @@ permalink: /
 title: "Welcome and Introduction"
 author_profile: true
 redirect_from: 
-  - /activities/
-  - /activities.html
+  - /day1/
+  - /day1.html
 ---
 
 ## • 8:00-8:45
