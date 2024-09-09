@@ -21,7 +21,7 @@ Welcome and Opening of the workshop
 
 **Outline of the learning objectives:** 
 
-_Note: Add hyperlinks to each of the theoretical contents sources (pdf? Drive docs?)_
+_Note: Add hyperlinks to each of the theoretical contents sources delivered during the pre-course assignment (pdf? Drive docs?)_
 
 1. Regional ocean biodiversity protection agreement: The Cartagena Convention 
 2. Best Practices methods for field data collection
@@ -37,7 +37,7 @@ _Note: Add hyperlinks to each of the theoretical contents sources (pdf? Drive do
 
 1. Brief Intro to the field data collection methods: MBON Rocky shore.
 2. Biological data Standards and formats ([DarwinCore](https://dwc.tdwg.org/terms/))
-3. Field work: 5 groups of 3 participants each will be working on the field data collection.
+3. Field work: the participants will be divided in groups which will be working on the field data collection.
 
 _Note: step-by-step manual (field work plan), including templates for data sets_
 
