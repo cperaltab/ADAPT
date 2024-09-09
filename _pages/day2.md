@@ -8,14 +8,13 @@ author_profile: true
 
 ## • 8:00-8:45
 
-Brief introduction
-Fundamental concepts already covered in the online material shared on Day 1.
+Brief introduction to the fundamental concepts already covered in the online material shared during the pre-course assignment.
 
 
 **Activities**
 
 - Brief Intro to the field data collection methods: Seagrass.
-- Field work: 5 groups of 3  participants each will be working on the field data collection.
+- Field work: the participanst will be organized in groups and each will be working on the field data collection.
 - Field data collection protocols: [SeagrassNet](https://search.oceanbestpractices.org/search?q=SeagrassNet&fields=all&activeField=all)  protocol (Adopt methods from MarineGEO, specially for associated fauna data; even if it is not in the OBPS).
 
 ## • 8:00-17:00 (Lunch Break 12:00-13:30)
