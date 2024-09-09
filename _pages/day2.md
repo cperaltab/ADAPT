@@ -8,9 +8,21 @@ author_profile: true
 
 ## • 8:00-8:45
 
-Brief introduction to the fundamental concepts already covered in the online material shared during the pre-course assignment.
+Continue from Day 1. Brief introduction to the fundamental concepts already covered in the online material shared during the pre-course assignment.
 
+**Outline of the learning objectives:** 
 
+_Note: Add hyperlinks to each of the theoretical contents sources delivered during the pre-course assignment (pdf? Drive docs?)_
+
+1. Regional ocean biodiversity protection agreement: The Cartagena Convention 
+2. Best Practices methods for field data collection
+3. EOVs, EBVs: definition and measurements. 
+4. Sharing data: FAIR principles, OBIS data standards and formats.
+5. Field data collection protocols:
+   
+    [SeagrassNet protocol](https://search.oceanbestpractices.org/search?q=SeagrassNet&fields=all&activeField=all)
+   [MarineGEO] incert url
+    
 **Activities**
 
 - Brief Intro to the field data collection methods: Seagrass.
