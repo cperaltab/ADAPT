@@ -28,14 +28,13 @@ _Note: Add hyperlinks to each of the theoretical contents sources delivered duri
 3. EOVs, EBVs: definition and measurements. 
 4. Sharing data: FAIR principles, OBIS data standards and formats.
 5. Field data collection protocols:
-   
-       [MBON Rocky shore](https://search.oceanbestpractices.org/search?q=MBON%20Rocky%20shore&fields=all&activeField=all)
+   [MBON Rocky shore](https://search.oceanbestpractices.org/search?q=MBON%20Rocky%20shore&fields=all&activeField=all)
 
 **Activities** 
 
 1. Brief Intro to the field data collection methods: MBON Rocky shore.
-2. Biological data Standards and formats ([DarwinCore](https://dwc.tdwg.org/terms/))
-3. Field work: the participants will be divided in groups which will be working on the field data collection.
+2. Biological data sharing, standards and formats ([OBIS](https://obis.org/), [DarwinCore](https://dwc.tdwg.org/terms/))
+3. Field work: the participants will visit a rocky shore site and work in groups on the field data collection.
 
 _Note: step-by-step manual (field work plan), including templates for data sets_
 
