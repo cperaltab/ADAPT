@@ -23,13 +23,13 @@ _Note: Add hyperlinks to each of the theoretical contents sources delivered duri
     [SeagrassNet protocol](https://search.oceanbestpractices.org/search?q=SeagrassNet&fields=all&activeField=all)
    [MarineGEO] incert url
     
+## • 8:45-17:00 (Lunch Break 12:00-13:30)
+
 **Activities**
 
 - Brief Intro to the field data collection methods: Seagrass.
-- Field work: the participanst will be organized in groups and each will be working on the field data collection.
+- Field work: the participanst will visit a seagrass site and will work in groups on the field data collection.
 - Field data collection protocols: [SeagrassNet](https://search.oceanbestpractices.org/search?q=SeagrassNet&fields=all&activeField=all)  protocol (Adopt methods from MarineGEO, specially for associated fauna data; even if it is not in the OBPS).
-
-## • 8:00-17:00 (Lunch Break 12:00-13:30)
 
 In the field: 
 _Note: Develop a step-by-step manual (field work plan), including templates for data sets._
