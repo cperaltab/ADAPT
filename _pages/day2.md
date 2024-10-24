@@ -23,7 +23,7 @@ _Note: Add hyperlinks to each of the theoretical contents sources delivered duri
     [SeagrassNet protocol](https://search.oceanbestpractices.org/search?q=SeagrassNet&fields=all&activeField=all)
    [MarineGEO] incert url
     
-## • 8:45-17:00 (Lunch Break 12:00-13:30)
+## • 8:45-17:00 (Lunch Break 12:00-13:00)
 
 **Activities**
 
