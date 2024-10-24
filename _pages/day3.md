@@ -13,9 +13,11 @@ Continue form day 2. Brief introduction to the fundamental concepts already cove
 
 _Note: Add hyperlinks to each of the theoretical contents sources delivered during the pre-course assignment (pdf? Drive docs?)_
 
-1. From field data collection to dataset assembly (rock shore)
+1. From field data collection to dataset assembly (rocky shore)
 2. Data annotation tools
 3. Generating an occurrence table and share it to OBIS
+
+## • 8:45-17:00 (Lunch Break 12:00-13:00)
 
 **Activities**
 
