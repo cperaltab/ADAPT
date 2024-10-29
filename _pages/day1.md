@@ -1,5 +1,5 @@
 ---
-permalink: /Biodiversity Assessment: Rocky Shore/
+permalink: /"Biodiversity Assessment: Rocky Shore"/
 # permalink: /
 title: "Module 1 - Day 1"
 author_profile: true
