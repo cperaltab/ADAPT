@@ -7,7 +7,7 @@ author_profile: true
 
 ## • 8:00-8:45
 
-Continue form day 2. Brief introduction to the fundamental concepts already covered in the online material shared during the pre-course assignment.
+Continue from day 2. Brief introduction to the fundamental concepts already covered in the online material shared during the pre-course assignment.
 
 **Outline of the learning objectives:** 
 
@@ -25,5 +25,5 @@ Classroom, hands on, working with data collected in the field (OBIS dataset temp
 
 Following the pre-course assignments, review OBIS data standards, formatting and QC.
 
-Data annotation, data set creation. Focus on higher taxonomic hierarchies, e.g. Mollusks, Macroalgae, Cnidaria (Discuss with the local trainers what are the most common taxonomic groups, or which are key functional groups  in each location and have a list before hand to help the annotation process move faster)
+Data annotation, data set creation. Focus on higher taxonomic hierarchies, e.g. Mollusks, Macroalgae, Cnidaria _(Discuss with the local trainers what are the most common taxonomic groups, or which are key functional groups  in each location and have a list before hand to help the annotation process move faster)_
 
