@@ -7,7 +7,7 @@ author_profile: true
 
 ## • 8:00-8:45
 
-Continue from day 2. Brief introduction to the fundamental concepts already covered in the online material shared during the pre-course assignment.
+Continue from day 1. Brief introduction to the fundamental concepts already covered in the online material shared during the pre-course assignment.
 
 **Outline of the learning objectives:** 
 
