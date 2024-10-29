@@ -16,6 +16,7 @@ _Note: Add hyperlinks to each of the theoretical contents sources delivered duri
 
 1. Fundamental knowledge of satellite images processing  for coastal habitat mapping
 2. Fundamental knowledge of Google Earth Engine
+   
 
 ## • 8:45-17:00 (Lunch Break 12:00-13:00)
 
