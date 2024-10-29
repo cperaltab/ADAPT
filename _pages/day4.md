@@ -20,8 +20,8 @@ _Note: Add hyperlinks to each of the theoretical contents sources delivered duri
 
 **Activities**
 
-Classroom, hands on, working with data collected in the field (OBIS dataset template)
+-Classroom, hands on, working with data collected in the field (OBIS dataset template)
 
-Following the pre-course assignments, review OBIS data standards, formatting and QC.
+-Following the pre-course assignments, review OBIS data standards, formatting and QC.
 
-Data annotation, data set creation. Focus on higher taxonomic hierarchies, e.g. Mollusks, Macroalgae, Cnidaria _(Discuss with the local trainers what are the most common taxonomic groups (seagrass spp and associated fauna) in each location and have a list before hand to help the annotation process move faster)_
+-Data annotation, data set creation. Focus on higher taxonomic hierarchies, e.g. Mollusks, Macroalgae, Cnidaria _(Discuss with the local trainers what are the most common taxonomic groups (seagrass spp and associated fauna) in each location and have a list before hand to help the annotation process move faster)_
